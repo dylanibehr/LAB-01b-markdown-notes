@@ -20,3 +20,15 @@ I am going to explore some ways change different markup features
 - Which is nice for general lists
 
 
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
+
+I copied the text for the above table. I will need to google how to create a pipe which is the vertical line. 
+
+Alt-7 creates a pipe
+ 
+ I actually cannot find a good solution to this.
+
+ 
