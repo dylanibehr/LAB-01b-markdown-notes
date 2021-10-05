@@ -31,4 +31,26 @@ Alt-7 creates a pipe
  
  I actually cannot find a good solution to this.
 
+
+
+ # Ok now for some actual notes.
+
+ Visual Studio Coder is super helpful and I think I want to just lean on it right now.
+
+ But I also think it will be a worthwhile endeavor to formally take a few organized thoughts. 
+
+ ## How to use terminal and git together
+
+Let's take some notes for how to setup a 'repo'
+
+
+ 1. The first thing we want to do is go to github and navigate to your profile. 
+ 2. From there go to repositories and click new. Create a repository name. Choose public or private and check 'Add a READ file'
+ 3. Now go into terminal and 
  
+
+ * dragon fly
+
+`dragonfly`
+
+ & dragon fly
